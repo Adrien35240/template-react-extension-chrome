@@ -1,10 +1,10 @@
 {
-  "name": "BandCamp-Player",
-  "description": "a player collection for bandcamp.com",
+  "name": "extension-name",
+  "description": "",
   "version": "0.0.0.1",
   "manifest_version": 3,
   "background":{
-    "service_worker": "js/background.js"
+    "service_worker": "background.js"
   },
   "permissions": ["storage","activeTab","scripting"],
   "action":{
